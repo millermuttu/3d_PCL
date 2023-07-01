@@ -1,0 +1,20 @@
+https://github.com/luxonis/depthai-hardware/tree/master/DM1090FFC_DepthAI_USB3 - Github page
+
+https://docs.luxonis.com/projects/hardware/en/latest/pages/DM1090.html - depthai page	
+
+https://shop.luxonis.com/products/dm1090ffc?variant=40535310565557 - All product 
+
+https://shop.luxonis.com/products/oak-ffc-ov9282-pair?pr_prod_strat=copurchase&pr_rec_pid=6304576962741&pr_ref_pid=6725924421813&pr_seq=uniform - mono camera pair
+
+https://shop.luxonis.com/products/oak-ffc-imx378?pr_prod_strat=copurchase&pr_rec_pid=4455410729026&pr_ref_pid=6725924421813&pr_seq=uniform - RGB camera
+
+
+
+Exzmples: 
+
+point cloud projection - https://github.com/luxonis/depthai-experiments/tree/master/point-cloud-projection
+
+pcl-projection-rgb - https://github.com/luxonis/depthai-experiments/tree/master/pcl-projection-rgb
+
+gen2 camera demo - https://github.com/luxonis/depthai-experiments/tree/master/gen2-camera-demo
+

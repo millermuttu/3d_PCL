@@ -1,0 +1,7 @@
+python capture_chessboards.py --rows 6 --columns 9 2.4 --calibration-folder "C:\muttu\Customer\Dr_ganesh\Arducam\calib_matrix2"  1 2 60 "C:\muttu\Customer\Dr_ganesh\Arducam\calibration2"
+
+python calibrate_cameras.py --rows 6 --columns 9 --square-size 2.4 "C:\muttu\Customer\Dr_ganesh\Arducam\calibration2" "C:\muttu\Customer\Dr_ganesh\Arducam\calib_matrix2"
+
+python calibrate_cameras.py --rows 11 --columns 8 --square-size 0.25 "C:\muttu\Customer\Forus\A2\calibration_2.5mm" "C:\muttu\Customer\Forus\A2\calibration_2.5mm_result"
+
+python calibrate_cameras.py --rows 11 --columns 8 --square-size 0.15 "C:\muttu\Customer\Forus\A2\3d\calibration_1.5mm_rows_11_columns_8" "C:\muttu\Customer\Forus\A2\3d\calibration_1.5mm_rows_11_columns_8_result"
